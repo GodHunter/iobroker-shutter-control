@@ -1,0 +1,1 @@
+# iobroker-shutter-control
